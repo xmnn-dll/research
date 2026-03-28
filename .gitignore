@@ -22,10 +22,37 @@ winresume/
 symcryptk/
 .AcWinRT
 AcWinRT/
+.gamemode
+gamemode/
 ./
 
 # Additional Ruby/bundler ignore for when you run: bundle install
 /vendor
+
+# Headers
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+.xmnn-dll/
+xmnn-dll-metadata
+research
+.research/
+.SecureKernel
+SecureKernel/
+.DWMApi
+DWMApi/
+.LocationApi
+LocationApi/
+.winresume
+winresume/
+.symcryptk
+symcryptk/
+.AcWinRT
+AcWinRT/
+.gamemode
+gamemode/
+./
 
 # Specific ignore for GitHub Pages
 # GitHub Pages will always use its own deployed version of pages-gem 
