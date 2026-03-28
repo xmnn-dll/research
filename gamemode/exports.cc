@@ -1,0 +1,10 @@
+Name	Address	Ordinal
+GetExpandedResourceExclusiveCpuCount	00000001800071B0	1
+HasExpandedResources	00000001800072C0	2
+MsixvcAddGameToGCS	0000000180005930	3
+MsixvcAddPackageAsync	0000000180006040	4
+MsixvcRemediateMutablePackagesForVolumeAsync	00000001800061C0	5
+MsixvcUpdatePolicyString	0000000180007110	6
+MsixvcUpdatePolicyUInt64	0000000180007160	7
+ReleaseExclusiveCpuSets	0000000180007340	8
+_DllMainCRTStartup	0000000180001510	[main entry]
